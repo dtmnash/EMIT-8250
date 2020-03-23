@@ -16,21 +16,21 @@ class: middle
 
 class: middle
 # Step 3
-## Build Assurance Cases for your class project
+## Identify a Top Level Claim
 
-- Using security requirements, identify five assurance claims  
-.small[_System- or product-related needs and requirements, interactions of the system or product with its environment, and real-world events and conditions can result in an objective to obtain assurance that the system or product achieves  certain  claims._  
-\[ISO-IEEE 15026-2-2011\]]
-- Prepare an argument in support of the claims that would be convincing in your assumed/hypothetical operational environment. Document this argument and the needed evidence using an assurance case for each of the claims.
+- Pick a high-risk property related claim
+- This can be something you care about at work
 
 ---
 
 class: middle
 # Step 4
-## Plan required assurance
+## Develop an Argument
 
-- Assess the alignment of the planned evidence with that available (or can be made available) from the OSS project. Highlight the gaps.
-- Link to your team GitHub repository that shows your internal project task assignments and collaborations to finish this task.
+- Introduce doubts
+- Eliminate doubts using sub-claims
+- Repeat the process until argument is convincing
+- Attach appropriate evidence
 
 ---
 
@@ -43,7 +43,7 @@ class: middle
 - As prescribed in slides; no typos and grammatical errors
 
 ## Argument Quality
-- Claims focus on system properties of interest
+- Claims focus on high-risk properties of interest
 - Reasonable depth and breadth:     
 a) Convince a technical expert  
 b) Coherent theme of the argument
@@ -52,7 +52,6 @@ b) Coherent theme of the argument
 
 class: middle
 # Step 5
-## Submit link to a markdown report
-- Submit the link on Canvas
-- One submission per team
-- Due Date: See Canvas
+## Submit the diagram
+- Download/Export the final diagram
+- Submit the diagram on Canvas
