@@ -16,10 +16,10 @@ class: middle
 
 class: middle
 # Step 3
-## Identify a Top Level Claim
+## Top Level Claim
 
-- Pick a high-risk property related claim
-- This can be something you care about at work
+### Start with this top-level claim
+![Exercise Top-level claim](images/exercise-top-level-claim.svg)
 
 ---
 
@@ -27,8 +27,8 @@ class: middle
 # Step 4
 ## Develop an Argument
 
-- Introduce doubts
-- Eliminate doubts using sub-claims
+- Introduce doubts using your experience and research
+- Eliminate doubts by introducing sub-claims
 - Repeat the process until argument is convincing
 - Attach appropriate evidence
 
@@ -51,7 +51,9 @@ b) Coherent theme of the argument
 ---
 
 class: middle
+
 # Step 5
 ## Submit the diagram
 - Download/Export the final diagram
 - Submit the diagram on Canvas
+.top-right[![Export diagram](images/export.png)]
