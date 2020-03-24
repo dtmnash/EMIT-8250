@@ -248,7 +248,8 @@ class: middle
 .red[Unless] the cats have an alternate food supply (mice in the room)
 * .green[C1.1.1.1.2] There are no mice in the room
 * .blue[E1.1.1.1.4 Month old exterminator report for rodents]
-* .blue[E1.1.1.1.5 Search Process Activity Log]
+* .blue[E1.1.1.1.5 Search process Activity Log]
+* .blue[E1.1.1.1.6 Milk placement map]
 
 ---
 class: middle
@@ -381,7 +382,7 @@ class: middle
 ???
 
 ## Good claims
-- These say something about expected outcomes we really wish for by using security technologies or by performing security-related activities
+- These say something about expected **outcomes** we really wish for by using security technologies or by performing security-related activities
 - Claims about expected outcomes can be argued extensively
 
 - E.g. "AES encryption" (security technology) --> "secure against communication line related threats" (outcome we try wish for)
@@ -394,7 +395,7 @@ class: middle
 --
 
 ## Good Claim Checklist
-- .blue[An entity]
+- .blue[An entity] relevant to the argument
 - .orange[A critical property of the entity]
 - .green[A value for the property and related uncertainty]
 
@@ -545,9 +546,10 @@ class: middle
 class: middle
 # Argument
 
-- Conveys why we believe a claim has been met
-- Refine claims into sub claims, until the sub-claim can be directly supported by the actual evidence
-- Bridges the gap between claims and evidence
+- Conveys why we believe the top-level claim has been met
+- Develop and refine sub claims, until the sub-claims can be directly supported by evidence
+- .red[Avoid drift in the entity of the sub-claim.] It should be related to the entity in the top-level claim or a related entity.
+- Bridge the gap between top-level claim and evidence
 
 --
 
@@ -561,9 +563,10 @@ class: middle
 ## Sub-claim
 
 Develop a sub-claim
+#### .blue[Aquisition processeses] are a part .blue[Supply chain processes]
 ![argument](images/sub-claim1.svg)
-.footnote[.red[
-Note:] The arrows mean different things!
+.top-right[.red[
+Note:] Different arrows mean different things!
 ]
 
 ---
@@ -754,7 +757,7 @@ First to develop and apply assurance case based method for control refinement
 ---
 class: middle
 # Security Controls
-[NIST SP 800-53 Rev. 5](https://csrc.nist.gov/csrc/media/publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf)
+[NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/draft)
 
 ### Makes the security and privacy controls outcome-based
 - Focuses on the security and privacy capabilities
@@ -767,14 +770,14 @@ class: middle
 ---
 class: middle
 # Security Controls
-[NIST SP 800-53 Rev. 5](https://csrc.nist.gov/csrc/media/publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf)
+[Changes from Rev.4 to Rev. 5](https://csrc.nist.gov/CSRC/media/Publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft-fpd-summary-of-significant-changes.pdf)
 
 IA-2 IDENTIFICATION AND AUTHENTICATION
 ### Current (Rev 4):
 - Control: The information system uniquely identifies and authenticates organizational users.
 
 ### Proposed (Rev 5):
-- Control: Uniquely identify and authenticate organizational users.
+- Control: Uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users.
 
 ---
 class: middle
