@@ -53,7 +53,25 @@ Roger Schell
 ![Roger](http://www.ieee-security.org/TC/SP2010/photos/.xvpics/0054_IMG-thumb.jpg)
 ]
 ---
-background-image: url(http://wallpapercraze.com/images/wallpapers/uwp6%20%282%29-110045.jpeg)
+# Systems Security Engineering
+
+### .orange[Problem] Context
+A sufficiently complete understanding of the problem
+--
+
+### .green[Solution] Context
+Transforms the security requirements into design requirements for the system
+--
+
+### .red[Trustworthiness] Context
+Evidence-based demonstration, through reasoning, that the system-of-interest is deemed trustworthy
+
+???
+The framework is independent of system type and engineering or acquisition process model and is not to be interpreted as a sequence of flows or process steps but rather as a set of interacting contexts, each with its own checks and balances
+
+---
+
+background-image: url(https://live.staticflickr.com/2834/8818803884_1306f9c8aa_b.jpg)
 ???
 Scenario: Our goal is to find a black cat in a dark room.
 ---
