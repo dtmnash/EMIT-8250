@@ -4,3 +4,7 @@
 - [Assurance Case Development](https://mlhale.github.io/EMIT-8250/swa/slides/lecture-AC/assurance-case.html)
 - [Assurance Case Exercise](https://mlhale.github.io/EMIT-8250/swa/slides/lecture-AC/assurance-case-exercise.html)
 - [Threat Modeling during Design](https://mlhale.github.io/EMIT-8250/swa/slides/lecture-TM/design-for-software-se.html)
+
+### Compliance Assessment Project
+- [Compliance assignment](./compliance-assignment/README.md)
+- [Assessment tool](./compliance-assignment/assessment-tool.xlsm)
