@@ -224,7 +224,7 @@ class: middle
 
 ---
 class: middle
-# Step 3: Evaluate --> STOP or Step 1: Identify doubts
+# Step 3: Evaluate --> STOP or Step 1: Introduce doubts
 
 .green[C1.1.1] All room entrances are guarded  
 * .red[R1.1.1.1] Unless the room vents allow cats to go in and out  
@@ -390,7 +390,7 @@ class: middle
 
 ### Avoid claims about the supporting method/techniques
 - .red[Bad claim:] The system uses AES encryption
-- Why? Because it is not interesting
+- Why? Because it is not interesting; Means to an end
 
 --
 
@@ -492,7 +492,6 @@ class: middle
 ## .green[Additional information] that is excluded from the claim or evidence
 - Context (understanding)
 - Justification (rationale)
-- Assumptions (validity)
 
 ---
 class: middle
