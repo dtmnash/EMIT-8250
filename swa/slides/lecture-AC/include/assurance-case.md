@@ -261,7 +261,7 @@ class: middle
 * .green[C1.1.1.1.1] All room vents have nets installed
 * .blue[E1.1.1.1.1 Vent inspection report]
 * .blue[E1.1.1.1.2 Search coverage report]
-* .blue[E1.1.1.1.3 Entrance log]
+* .blue[E1.1.1.1.3 Entrances audit log]
 
 .red[Unless] the cats have an alternate food supply (mice in the room)
 * .green[C1.1.1.1.2] There are no mice in the room
