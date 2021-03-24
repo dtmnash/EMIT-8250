@@ -170,8 +170,8 @@ class: middle
 Basis for the belief in a claim
 
 --
-
-.green[Belief] increases when .red[doubts] are removed!   
+.green[Belief] decreases when .red[doubts] are present, and  
+.green[Belief] increases when .red[doubts] are removed  
 
 --
 
