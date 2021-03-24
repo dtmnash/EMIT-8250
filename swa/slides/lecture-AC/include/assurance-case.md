@@ -167,10 +167,12 @@ Can you ever be 100% sure for a large and complex room?
 ---
 class: middle
 # .red[Assurance]
-Basis for the belief in a claim
+Basis for the belief in a claim  
 
 --
-.green[Belief] decreases when .red[doubts] are present, and  
+.green[Belief] decreases when .red[doubts] are present  
+
+--
 .green[Belief] increases when .red[doubts] are removed  
 
 --
@@ -774,7 +776,7 @@ First to develop and apply assurance case based method for control refinement
 ---
 class: middle
 # Security Controls
-[NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/draft)
+[NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 
 ### Makes the security and privacy controls outcome-based
 - Focuses on the security and privacy capabilities
