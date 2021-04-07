@@ -986,5 +986,3 @@ class: middle
 class: center, middle
 # Discussion?
 ![that-dont-make-no-sense](https://media.giphy.com/media/DO5JobrylWL7i/giphy.gif)
-???
-In the next video we will talk about structural-design patterns that help to redesign for for security.
