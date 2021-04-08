@@ -373,7 +373,7 @@ class: middle
 "_The PlaySound API takes as input a string which represents either a WAV filename or an alias.  If the input is an alias, the PlaySound API retrieves data from the registry under HKCU to convert the alias into a filename.  Once the filename is determined, the PlaySound API opens the WAV file specified and reads the two relevant pieces from the file: the WAVEFORMATEX that defines the type of data in the file and the actual audio data.  It then hands that data to the audio rendering APIs._"
 
 ???
-Here is design narrative for you to practice building a DFD. Pause the video here and create a Level 0 diagram. Here the Playsound API is our codebase of interest.
+Here is design narrative for you to practice building a DFD. Pause here and create a Level 0 diagram in your favorite editor. Here the Playsound API is our codebase of interest.
 
 ---
 
@@ -398,7 +398,7 @@ class: middle
 ???
 To proceed further in DFD construction, we try to develop a level 1 DFD for the given Playsound API narrative. Such narratives may also come from a use case diagram. Using the details of the scenario, we add more information to the single level 0 process, such that you can tell a story without making changes to the DFD.
 
-Now pause the video here and try to come up with a level 1 diagram based on the Playsound API narrative.
+Now pause here and try to come up with a level 1 diagram based on the Playsound API narrative. The narrative is about a single feature of the system.
 
 ---
 
@@ -573,7 +573,7 @@ In summary, we discussed why we want to construct DFDs, how to construct DFDs an
 
 Here is the big takeaway, and I said it before: Most attacks come through data, and these attacks are interested in going after data in the system. So design analysis for security is most effective when done from a data-flow perspective.
 
-In the next video we will look at how we can use DFDs to automatically identify threats.
+Next, we will look at how we can use DFDs to automatically identify threats.
 
 ---
 class: middle, center
