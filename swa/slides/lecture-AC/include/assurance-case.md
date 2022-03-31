@@ -423,7 +423,7 @@ class: middle
 
 ## Example
 - .blue[The system] .green[is acceptably] .orange[secure]
-- .blue[The system] .green[has no] .orange[unacceptable consequences to assets from security threats]
+- .blue[The system] .green[has no] .orange[exploitable SQL injection weakness]
 
 ---
 class: middle
@@ -435,7 +435,7 @@ class: middle
 ## .orange[&lt;VERB-PHRASE&gt;]  
 - .orange[Verb-Phrase] defines a predicate using the critical property of the subject along with its expected value and related uncertainty
 
-## Consider [diagramming sentences](http://grammar.ccc.commnet.edu/grammar/diagrams2/one_pager1.htm)
+## Consider [diagramming sentences](http://guidetogrammar.org/grammar/diagrams2/one_pager1.htm)
 - Avoid compound predicates
 
 ---
