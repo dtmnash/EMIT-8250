@@ -5,9 +5,9 @@ In this assignment you will pick a company, identify its strategic goals and mat
 
 As part of this assignment, you will *first pick a company* and then *prepare a document* with the following structure:
 
-1. Strategic company information
+1. Strategic Company Information
 2. Company Maturity
-3. System information
+3. System Information
 4. System Assessment and Managerial Certification Recommendations
 
 Each section is discussed in detail below.
@@ -17,18 +17,18 @@ Each section is discussed in detail below.
 The purpose of this part of the assignment is to identify important strategic information that guides how the company operates.
 
 #### Report Structure
-The `Strategic company information` section should contain the following:
+The `Strategic Company Information` section should contain the following:
 
 1. `Name` - The company's name
-2. `Executive Summary` - Write a one paragraph synopsis of what the company does. When writing your summary answer questions such as, what products and services the business offers, what its customer base is, how maturity is the organization (e.g. is it a startup or an established company?), what risks does it face, how does it make money?
-3. `Strategic Business Goals` - In a bulleted list under the summary, identify at a few business goals/objectives associated with the company, (i.e. what are they trying to achieve as a business?). Include a sentence for each that explains the goal. **Please do not** list `make money` or `grow` as business objectives. Be specific. For instance, a goal for `Google` might be `Improve search precision` or `Increase ad product targeting through embedded in-home IoT products`
+2. `Executive Summary` - Write a one paragraph synopsis of what the company does. When writing your summary answer questions such as, what products and services the business offers, what its customer base is, how mature is the organization (e.g. is it a startup or an established company?), what risks does it face, how does it make money?
+3. `Strategic Business Goals` - In a bulleted list under the summary, identify a few business goals/objectives associated with the company, (i.e. what are they trying to achieve as a business?). Include a sentence for each that explains the goal. **Please do not** list `make money` or `grow` as business objectives. Be specific. For instance, a goal for `Google` might be `Improve search precision` or `Increase ad product targeting through embedded in-home IoT products`
 4. `IT Function` - Below that write a single paragraph about how you imagine IT needs to support the company for it to achieve its stated goals.
 
 ### Company Maturity
 #### Task
 The purpose of this assignment is to identify how mature the company you selected is with respect to its information security and IT processes. Look to its existing company policies (if you can find them), its publically releasable data, and make your best guesses about the company, as you do the following:
 
-Open the attached [ISO/NIST maturity assessment tool](https://github.com/MLHale/EMIT-8250/raw/master/compliance-assignment/assessment-tool.xlsm) and identify the company’s maturity levels. The tool has a number of questions you can ask yourself about the company. For each question, assign your answer a value of `Not performing (0)` to `continuously improving (5)` or `Not applicable`. Your selections should fit with the governance objectives and business goals of the company. For instance, if it is a startup you probably shouldn't have 5s across the board in info. Sec. 
+Open the attached [ISO/NIST maturity assessment tool](https://github.com/MLHale/EMIT-8250/raw/master/compliance-assignment/assessment-tool.xlsm) and identify the company’s maturity levels. The tool has a number of questions you can ask yourself about the company. For each question, assign your answer a value of `Not performing (0)` to `continuously improving (5)` or `Not applicable`. Your selections should fit with the governance objectives and business goals of the company. For instance, if it is a startup you probably shouldn't have 5s across the board in InfoSec. 
 
 #### Report Structure
 The `Company Maturity` section of your report should just contain a single sentence that identifies how mature your company is and reports the overall maturity value calculated from the assessment tool spreadsheet. Please also attach the spreadsheet itself to your submission in canvas.
